@@ -20,3 +20,5 @@
 
 return 0;
     }
+
+    /*basicamente fatores aninhados é nada mais do que comandos dentro de outros comandos*/
